@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I06vlHldcIizc+bUiciFsaEbIjRemAoZzJfMwKol25s=",
+  "Hash": "flslbIZYzijWaAVgzdOl57IxScR1jB6QM6JIitVd3gA=",
   "Source": "PartyInvites",
   "BasePath": "_content/PartyInvites",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Yoctoscript\\source\\vs-repos\\ASP.NET.Core.Web.App.MVC.1-PartyInvites\\PartyInvites\\wwwroot\\css\\styles.css",
+      "SourceId": "PartyInvites",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yoctoscript\\source\\vs-repos\\ASP.NET.Core.Web.App.MVC.1-PartyInvites\\PartyInvites\\wwwroot\\",
+      "BasePath": "_content/PartyInvites",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\Yoctoscript\\source\\vs-repos\\ASP.NET.Core.Web.App.MVC.1-PartyInvites\\PartyInvites\\wwwroot\\favicon.ico",

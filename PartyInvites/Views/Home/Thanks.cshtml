@@ -8,8 +8,9 @@
 <head>
     <meta name="portview" content="width=width-device"/>
     <title>Thanks</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css"/>
 </head>
-<body>
+<body class="text-center">
     <div>
         <h1>Thank you, @Model?.Name</h1>
         @if (Model?.WillAttend == true)
@@ -21,7 +22,7 @@
             @:Sorry to hear that you can't make it, but thanks for letting us know.
         }
     </div>
-    Click <a asp-action="ListResponses">here</a> to see who's coming.
-    Click <a asp-action="RsvpForm">here</a> for a new entry
+    Click <a asp-action="ListResponses">here</a> to see who's coming. <br>
+    Click <a asp-action="Index">here</a> to go to the home page. 
 </body>
 </html>
