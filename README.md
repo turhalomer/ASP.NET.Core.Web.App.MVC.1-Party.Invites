@@ -1,2 +1,5 @@
-# ASP.NET.Core.Web.App.MVC.1
-Web application using ASP.NET Core 6 following the Model-View-Controller design pattern. (Chapter 3) (Adam Freeman - Pro ASP.NET Core 6)
+[![N|Solid](https://i.pinimg.com/originals/ec/eb/da/ecebdafc1e43ebb811498c90c16011b4.png)](https://i.pinimg.com/originals/ec/eb/da/ecebdafc1e43ebb811498c90c16011b4.png)
+[![N|Solid](https://i.pinimg.com/originals/c9/42/0a/c9420a3f00954241d8881aeada876f15.png)](https://i.pinimg.com/originals/c9/42/0a/c9420a3f00954241d8881aeada876f15.png)
+[![N|Solid](https://i.pinimg.com/originals/a1/0e/71/a10e71825b10a4f0e97df440b4004024.png)](https://i.pinimg.com/originals/a1/0e/71/a10e71825b10a4f0e97df440b4004024.png)
+[![N|Solid](https://i.pinimg.com/originals/a3/82/94/a382947a5551e05fff9543bf70784b10.png)](https://i.pinimg.com/originals/a3/82/94/a382947a5551e05fff9543bf70784b10.png)
+[![N|Solid](https://i.pinimg.com/originals/dd/ab/56/ddab564bf0989cd000adbb63fa53c8cb.png)](https://i.pinimg.com/originals/dd/ab/56/ddab564bf0989cd000adbb63fa53c8cb.png)
